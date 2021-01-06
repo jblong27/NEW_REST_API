@@ -11,3 +11,7 @@ Content-Type: application/json
   "name": "amazing person",
   "subscribedToChannel": "videogamedunkey"
 }
+
+###
+
+DELETE http://localhost:3000/subscribers/
